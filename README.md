@@ -6,4 +6,4 @@ I am using 95 RGB led as chamber lights and wrote a little long macro because of
 
 This macro will only be then printer is switch on. The initial start-up of your printer.
 
-This is purely for ascetic, because why not.
+This is purely for aesthetics, because why not.
